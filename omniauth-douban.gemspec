@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.description = %q{an omniauth strategy for douban}
 
   s.rubyforge_project = "omniauth-douban"
-  s.add_dependency 'omniauth', '~> 1.0.0'
+  s.add_dependency 'omniauth', '~> 1.2.0'
   s.add_dependency 'omniauth-oauth', '~> 1.0.0'
   s.add_dependency 'multi_json'
 
